@@ -94,6 +94,19 @@ src/
    ```
 3. Deploy: `npm run deploy`
 
+
+##Output
+<img width="1800" alt="Screenshot 2025-06-28 at 2 38 47 PM" src="https://github.com/user-attachments/assets/32daccf7-5f6c-44a7-86d9-8449bf5c1adc" />
+<img width="1800" alt="Screenshot 2025-06-28 at 2 38 59 PM" src="https://github.com/user-attachments/assets/61f59f0a-6f36-48d3-a31a-596658d0ecdd" />
+<img width="1800" alt="Screenshot 2025-06-28 at 2 39 07 PM" src="https://github.com/user-attachments/assets/b504d333-0138-43bd-8ef9-92b685165784" />
+
+
+
+
 ## License
 
 MIT License - feel free to use this project for your own purposes. 
+
+
+
+
